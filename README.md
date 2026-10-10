@@ -11,3 +11,6 @@
 - `pull` : github to pc
 - push where(origin) what (main)
 - branch to main
+- `log` - to view the commit, push , pull (git log --oneline --graph --all)
+- `switch -c b1` - create and switch to the new branch
+- `HEAD` : tells you where you are.
