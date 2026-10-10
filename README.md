@@ -12,5 +12,5 @@
 - push where(origin) what (main)
 - branch to main
 - `log` - to view the commit, push , pull (git log --oneline --graph --all)
-- `switch -c b1` - create and switch to the new branch
+- `switch -c b1` - create and switch to the new branch -  git switch main, git switch b1
 - `HEAD` : tells you where you are.
