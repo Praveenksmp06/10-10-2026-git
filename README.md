@@ -22,4 +22,5 @@
 - Version control with git - https://swcarpentry.github.io/git-novice/
 - R packages book - https://r-pkgs.org/
 - R studio only mode link(no terminal) - https://github.com/tidyverse/tidy-dev-day/blob/main/README.md
+-New line by jennifer
 
